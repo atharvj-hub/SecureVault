@@ -163,7 +163,7 @@ MIT License - see [LICENSE](LICENSE) for details
 
 ## 👤 Author
 
-**Atharv Joshi**
+**Atharv**
 - GitHub: [@atharvj-hub](https://github.com/atharvj-hub)
 - Project Link: [https://github.com/atharvj-hub/SecureVault](https://github.com/atharvj-hub/SecureVault)
 
